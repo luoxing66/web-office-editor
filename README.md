@@ -7,6 +7,12 @@
 
 🔗 https://office-editor.tuojiecloud.cn
 
+## 🚀 快速开始
+```bash
+npm install
+npm run dev
+```
+
 ## ✨ 核心特性
 - 📦 极轻量：安装包仅几百 KB，无依赖、无后台服务
 - 🔗 协议唤起：通过 office-editor:// 协议从浏览器直接打开本地 Office 应用
