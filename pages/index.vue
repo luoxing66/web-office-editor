@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen bg-gray-50 py-8 px-4">
     <div class="max-w-4xl mx-auto">
-      <div class="flex space-between">
+      <div class="flex justify-between">
         <h1 class="text-3xl font-bold text-gray-900 mb-8">Web Office Editor</h1>
         <a href="https://github.com/luoxing66/web-office-editor" title="github" target="_blank">
           <svg
