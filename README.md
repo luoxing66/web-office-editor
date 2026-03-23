@@ -25,5 +25,5 @@
 
 ## 📬 联系与支持
 如需企业版支持、定制开发或私有化部署咨询，欢迎联系我们：
-- 邮箱：support@tuojiecloud.cn
+- 邮箱：contact@tuojiecloud.cn
 - 手机：18675550376（微信同号）
