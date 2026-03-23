@@ -1,6 +1,6 @@
 import { createReadStream, existsSync, statSync } from "node:fs";
 import { join } from "node:path";
-import { getUploadsDir } from "../../utils/upload";
+import { getUploadsDir, sanitizeFileName } from "../../utils/upload";
 
 export default defineEventHandler((event) => {
   const safeName = sanitizeFileName(getQuery(event).object as string);
